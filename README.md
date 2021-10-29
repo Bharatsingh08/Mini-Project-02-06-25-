@@ -5,7 +5,7 @@
 
 ## Software used
 
-HTML, CSS, Javascript, Bootstrap, SQL.
+HTML, CSS, Javascript, Bootstrap.
 
 ## Sample Shots of our project:
 ![image](https://user-images.githubusercontent.com/88699329/139460330-acc7efdd-ae3f-4eae-bdcb-70278b4b5315.png)
